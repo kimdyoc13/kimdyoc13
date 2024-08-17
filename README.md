@@ -1,8 +1,13 @@
-# Hi I'm Dongyeong 👋
+# Hi I'm Dongyeong ☀️
 
 
 
-# Main tools
+# 🏫Educated 
+- Lg aimers
+- Naver Boost Camp ( 2024.08 ~ 2025.02)
+
+
+# 💻Main tools
 expected update
 
 
