@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **kimdyoc13/kimdyoc13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=Transparent&text=DongYeongKim)
+# Main tools
+## expected update
+
+
+# Developing Tools
+## exprected Update
+
+
+# Statistics
+<div>
+  <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=kimdyoc13&show_icons=true&theme=holi" width = "49%" height="130%" />
+  <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=ydmins" width="42%" height="100%"/>
+</div>
+
