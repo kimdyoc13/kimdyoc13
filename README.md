@@ -12,7 +12,7 @@ expected update
 
 
 # Developing Tools
-exprected Update
+expected Update
 
 
 # Statistics
